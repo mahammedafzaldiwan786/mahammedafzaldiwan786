@@ -3,7 +3,7 @@
 
 ---
 
-# 💫 About Me
+# 🧑🏻‍💻 About Me
 
 - 🔭 I’m currently working on **Full Stack Web Applications**
 - 👯 I’m looking to collaborate on **Web & Backend Projects**
@@ -75,7 +75,7 @@
 
 ---
 
-# 🧑🏻‍💻 Technical Concepts
+# 🔧 Technical Concepts
 
 <p>
   <img src="https://img.shields.io/badge/MVC%20Architecture-005571?style=for-the-badge"/>
